@@ -13,7 +13,8 @@
 python -m pytest test_registration.py
 
 
-Описание тестов
+Описание тестов:
+
 test_invalid_email: Проверяет негативный сценарий с неверным форматом email.
 test_weak_password: Проверяет негативный сценарий с слишком слабым паролем.
 test_password_mismatch: Проверяет негативный сценарий с неподтвержденным паролем.
